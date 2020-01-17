@@ -1,0 +1,1 @@
+python3 final_test.py --data_img_dir $1 --query_csv $2 --gallery_csv $3 --output_file $4
